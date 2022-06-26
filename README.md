@@ -7,8 +7,11 @@
 - 知識くらいは身に着けておくと良い
 
 ## FX基礎
-FX = Foreign eXchange = 外国為替取引
+- FX = Foreign eXchange = 外国為替取引
 - 異なる通貨を交換(売買)すること
+- 外国の通貨に交換しないことは、円に投資していると考えることもできる
+- さまざまな通貨ペアをやりとり可能
+    - USD/JPY, CAD/JPY, EUR/JPY, AUD/NZD, USD/CAD, EUR/GBP, EUR/USD, AUD/JPY, AUD/USD, NZD/JPY, NZD/USD, GBP/JPY, GBP/USD, …
 
 ### 注文
 - 買い注文 / 売り注文
@@ -83,7 +86,7 @@ FX = Foreign eXchange = 外国為替取引
 - 長い目で見ると, 株は右肩上がり, (通貨にも寄るが)為替はレンジ相場
     - 特に地理的に近く, 同じような動きをする国
         - AUD/NZD
-        - CAD/USD
+        - USD/CAD
 
 ## 予測
 - 外的要因が多くあり, そもそも予測は難しい

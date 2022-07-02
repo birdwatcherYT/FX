@@ -11,7 +11,7 @@
 - 特徴量作成の参考になる
 - Pythonで為替データを扱えるようになる
 
-## FX基礎
+## FXの基礎
 ![](img/exchange.png)
 
 - FX = Foreign eXchange = 外国為替取引
